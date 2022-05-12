@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-izmeneniy
-eshe
-=======
-yyyyyyy
-dgerge
->>>>>>> 81921f93fe982283b65877b4c52b5c987c146b5c
